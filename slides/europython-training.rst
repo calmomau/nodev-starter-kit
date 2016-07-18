@@ -185,7 +185,7 @@ Download::
 nodev-starter-kit
 -----------------
 
-nodev-starte-kit lets you perform test-driven code search queries
+nodev-starter-kit lets you perform test-driven code search queries
 with `pytest-nodev <https://pypi.python.org/pypi/pytest-nodev>`_
 safely and efficiently using `docker <https://docker.com>`_.
 
